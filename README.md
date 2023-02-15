@@ -1,2 +1,3 @@
 # Graph-Machine-Learning-SBU-4012
-Assignment #1
+This repository assigned for Graph Mining course in winter 2023 SBU
+## Assignment #1
