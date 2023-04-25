@@ -8,7 +8,16 @@ In this Assignment I answered marked question from [this file](https://github.co
 ![2 6](https://user-images.githubusercontent.com/113939902/234376887-73692cc0-d68b-4b9f-b38d-3c4bb0929ea5.png)
 
 ![4 1](https://user-images.githubusercontent.com/113939902/234376913-2369788f-2a96-493e-9146-117b22701ec9.png)
-
+In order to solve this exercise Trying node mapping methode :<br>
+(A,1) <br>
+(B,5) <br>
+(C,6) <br>
+(D,2) <br>
+(E,4) <br>
+(F,8) <br>
+(G,7) <br>
+(H,3) <br>
+so graphs are isomorphism
 ![4 2](https://user-images.githubusercontent.com/113939902/234376926-4d3d0bdb-9e84-4f57-833a-ac58efd482ea.png)
 
 ![4 3](https://user-images.githubusercontent.com/113939902/234376946-05496175-29aa-4be1-8a88-ec6d772d92b4.png)
