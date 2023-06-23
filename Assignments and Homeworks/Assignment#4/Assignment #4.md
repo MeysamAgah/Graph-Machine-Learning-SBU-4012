@@ -12,8 +12,11 @@ this is for right graph <br>
 As you see 3 layers of message passing needed to distinguish between 2 nodes
 ![2 3](https://user-images.githubusercontent.com/113939902/234376847-f7870c54-c327-4cb0-bc9a-93c507b1cc6e.png)<br>
 $$\ D^{-1}A \$$
-![2 6](https://user-images.githubusercontent.com/113939902/234376887-73692cc0-d68b-4b9f-b38d-3c4bb0929ea5.png)
-
+![2 6](https://user-images.githubusercontent.com/113939902/234376887-73692cc0-d68b-4b9f-b38d-3c4bb0929ea5.png)<br>
+message function:<br>
+$$\ m_{u}^{(l)}=W^{l}h_{u}^{(l)} \$$ <br>
+aggregation function:<br>
+$$\ h_{v}^{(l)}=SUM({m_{u}^{(l)} , u Ε N(v)}) \$$
 ![4 1](https://user-images.githubusercontent.com/113939902/234376913-2369788f-2a96-493e-9146-117b22701ec9.png)
 <br>In order to solve this exercise Trying node mapping methode :<br>
 (A,1) <br>
