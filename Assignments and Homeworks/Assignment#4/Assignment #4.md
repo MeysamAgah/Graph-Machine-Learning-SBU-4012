@@ -36,5 +36,7 @@ at above figure we call left graph G1 and right one G2. mean of both graphs are 
 We try to use proof by contradition to show WL test not able to decide whether graphs are isomorphism or not after k iterations. by implementing algorithm and observing result we see that we have two embbeded graphs with at leats two feature representation vectors at k-th iteration then we'll have 2 different results. <br>
 first, if two feature representation vectors are same then it means each node of G1 and its edges are same as a node in G2 and its edges and according to this test is ale to decide graphs are isomorphism or not.<br>
 second, if two feature representation vectors are not same then that means there is a node in G1 which its feature representation is different from G2 and again test can decide graphs are isomorphis or not.<br>
-we can conclude that test can decide whether graphs are isomorphis or not and according to question we have 2 graphs with same embedding and same aggregation and combine function that are not isomorphis and according to proof WL test also decides the graphs are not isomorphic.
+we can conclude that test can decide whether graphs are isomorphis or not and according to question we have 2 graphs with same embedding and same aggregation and combine function that are not isomorphis and according to proof WL test also decides the graphs are not isomorphic.<br>
+<br>
+this was updated on 6/23/2023
 
