@@ -28,5 +28,9 @@ so graphs are isomorphism
 ![4 2](https://user-images.githubusercontent.com/113939902/234376926-4d3d0bdb-9e84-4f57-833a-ac58efd482ea.png)
 
 ![4 3](https://user-images.githubusercontent.com/113939902/234376946-05496175-29aa-4be1-8a88-ec6d772d92b4.png)
-![4 3 1](https://user-images.githubusercontent.com/113939902/234376966-d40d9adf-95f4-4c13-a29b-f90d1b213522.png)
+![4 3 1](https://user-images.githubusercontent.com/113939902/234376966-d40d9adf-95f4-4c13-a29b-f90d1b213522.png) <br>
+We try to use proof by contradition to show WL test not able to decide whether graphs are isomorphism or not after k iterations. by implementing algorithm and observing result we see that we have two embbeded graphs with at leats two feature representation vectors at k-th iteration then we'll have 2 different results. <br>
+first, if two feature representation vectors are same then it means each node of G1 and its edges are same as a node in G2 and its edges and according to this test is ale to decide graphs are isomorphism or not.<br>
+second, if two feature representation vectors are not same then that means there is a node in G1 which its feature representation is different from G2 and again test can decide graphs are isomorphis or not.<br>
+we can conclude that test can decide whether graphs are isomorphis or not and according to question we have 2 graphs with same embedding and same aggregation and combine function that are not isomorphis and according to proof WL test also decides the graphs are not isomorphic.
 
