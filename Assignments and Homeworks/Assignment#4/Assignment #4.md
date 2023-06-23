@@ -27,6 +27,7 @@ As you see 3 layers of message passing needed to distinguish between 2 nodes
 so graphs are isomorphism
 ![4 2](https://user-images.githubusercontent.com/113939902/234376926-4d3d0bdb-9e84-4f57-833a-ac58efd482ea.png) <br>
 ![4.2](https://raw.githubusercontent.com/MeysamAgah/Graph-Machine-Learning-SBU-4012/main/Assignments%20and%20Homeworks/Assignment%234/4.2.png)<br>
+at above figure we call left graph G1 and right one G2. mean of both graphs are 2 and max of both graphs are 3, this proove that in each kind of case we may need to use one of aggregation function to become able to make difference between grahs
 ![4 3](https://user-images.githubusercontent.com/113939902/234376946-05496175-29aa-4be1-8a88-ec6d772d92b4.png)<br>
 ![4 3 1](https://user-images.githubusercontent.com/113939902/234376966-d40d9adf-95f4-4c13-a29b-f90d1b213522.png) <br>
 We try to use proof by contradition to show WL test not able to decide whether graphs are isomorphism or not after k iterations. by implementing algorithm and observing result we see that we have two embbeded graphs with at leats two feature representation vectors at k-th iteration then we'll have 2 different results. <br>
