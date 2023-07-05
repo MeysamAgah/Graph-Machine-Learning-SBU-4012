@@ -1,1 +1,2 @@
-Presentation is about a graph convolutional Neural Network Based Algorithm for web scale recommender systems.
+Presentation is about a graph convolutional Neural Network Based Algorithm for web scale recommender systems.<br>
+here's [link](https://github.com/MeysamAgah/Graph-Machine-Learning-SBU-4012/blob/main/Assignments%20and%20Homeworks/Final%20Project/Graph%20Convolutional%20Neural%20Networks%20for%20Web-Scale%20Recommender%20Systems%20Meysam%20Agah.pdf) to presentation. number of slides is 57 but presentation will be over in between 15 to 20 minutes.
